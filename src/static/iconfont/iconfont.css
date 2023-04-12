@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4009260 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1681221758187') format('woff2'),
+       url('iconfont.woff?t=1681221758187') format('woff'),
+       url('iconfont.ttf?t=1681221758187') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-telegram:before {
+  content: "\e794";
+}
+
+.icon-youqinglianjie:before {
+  content: "\e636";
+}
+
+.icon-GitHub:before {
+  content: "\ea09";
+}
+
+.icon-github:before {
+  content: "\e6b7";
+}
+
+.icon-rizhi:before {
+  content: "\e6c8";
+}
+
+.icon-fenlei_:before {
+  content: "\e621";
+}
+
+.icon-24gf-playlistHeart:before {
+  content: "\ea84";
+}
+
+.icon-shouye:before {
+  content: "\e771";
+}
+
+.icon-sousuo:before {
+  content: "\e612";
+}
+
+.icon-biaoqian1:before {
+  content: "\f306";
+}
+
+.icon-biaoqian:before {
+  content: "\e680";
+}
+
+.icon-Tziliaoguidang:before {
+  content: "\e748";
+}
+

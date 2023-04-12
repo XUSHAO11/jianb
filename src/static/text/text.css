@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "JDZY";
+    src: url('./LXGWWenKaiGBFusion-Bold.ttf');
+    src: url('./LXGWWenKaiGBFusion-Light.ttf');
+    src: url('./LXGWWenKaiGBFusion-Regular.ttf');
+    src: url('./LXGWWenKaiMonoGBFusion-Bold.ttf');
+    src: url('./LXGWWenKaiMonoGBFusion-Light.ttf');
+    src: url('./LXGWWenKaiMonoGBFusion-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
