@@ -1,4 +1,6 @@
 # JianB
+已实现 首页 其他页面暂未开发
+采用element+vue3+vite
 
 This template should help get you started developing with Vue 3 in Vite.
 
