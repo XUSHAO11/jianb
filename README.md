@@ -1,8 +1,14 @@
 # JianB
+
+JianB由我命名，和另外一个小伙伴搭建
+
 已实现 首页 其他页面暂未开发
 采用element+vue3+vite
 
 This template should help get you started developing with Vue 3 in Vite.
+
+# JianB截图
+![image](https://github.com/XUSHAO11/jianb/assets/52852249/2307a67b-5c0f-4c22-8528-69331c913a50)
 
 ## Recommended IDE Setup
 
