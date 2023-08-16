@@ -8,7 +8,8 @@ JianB由我命名，和另外一个小伙伴搭建
 This template should help get you started developing with Vue 3 in Vite.
 
 # JianB截图
-![image](https://github.com/XUSHAO11/jianb/assets/52852249/2307a67b-5c0f-4c22-8528-69331c913a50)
+![image](https://github.com/XUSHAO11/jianb/assets/52852249/fd529869-78eb-4d35-9bdd-d65ecb92773e)
+
 
 ## Recommended IDE Setup
 
